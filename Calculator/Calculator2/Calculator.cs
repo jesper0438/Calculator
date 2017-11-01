@@ -10,22 +10,26 @@ namespace Calculator2
     {
         public int Diff(int getal1, int getal2)
         {
-            throw new NotImplementedException();
+            return getal1 - getal2;
+
         }
 
         public int Product(int getal1, int getal2)
         {
-            throw new NotImplementedException();
+            return getal1 * getal2;
         }
 
         public int Quotient(int getal1, int getal2)
         {
-            throw new NotImplementedException();
+            return getal1 / getal2; ;
         }
 
         public int Sum(int getal1, int getal2)
         {
-            throw new NotImplementedException();
+            // datatype + variabele naam = | niet verplicht
+            int sum = getal1 + getal2;
+
+            return sum;
         }
     }
 }
