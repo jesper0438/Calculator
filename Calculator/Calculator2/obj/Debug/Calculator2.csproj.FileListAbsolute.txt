@@ -5,3 +5,10 @@ C:\Users\nieu0082\Documents\Calculator\Calculator\Calculator2\obj\Debug\Calculat
 C:\Users\nieu0082\Documents\Calculator\Calculator\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
 C:\Users\nieu0082\Documents\Calculator\Calculator\Calculator2\obj\Debug\Calculator2.exe
 C:\Users\nieu0082\Documents\Calculator\Calculator\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\obj\Debug\Calculator2.csprojResolveAssemblyReference.cache
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Jesper\Desktop\Calculatorproject\calculator\Calculator\Calculator2\obj\Debug\Calculator2.pdb
